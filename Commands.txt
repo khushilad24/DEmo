@@ -1,0 +1,17 @@
+Commands:
+
+--> Configuring(FIRST TIME USER)
+
+1)git config --global user.name "provide_user_name_here".
+2)git config --global user.email "provide_you_email_here".
+
+--> Project
+
+1)git init
+2)git remote -v (to check if any link exists).
+3)git remote add origim <paster_the_link_here>
+4)git status (to check the status of your current git directory).
+5)git add. (to add all files inside directory fir tracking).
+6)git commit -m "provide a message here about the changes you have done".
+7)git push origin master (to push the project to github).
+
